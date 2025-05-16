@@ -35,7 +35,7 @@ POST /api/dns
   "hostname": "temp.com",
   "value": "1.2.3.4",
   "ttl": 300
-}]
+}
  ```
 This record will automatically expire and be removed after 5 minutes (300 seconds).
 
